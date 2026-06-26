@@ -1,10 +1,10 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.0",
   "pub_date": "2026-06-26T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGZ4OUg0citHcDNycmFKNmxsZkZnMzYxZEh6b0pDS0MvcFV0MlA3ZnZvbjNRTVQ5Y2txVVlXNXZ0eHd4blQxTVNCZW90N2R4QmFwVDBpcXVtTitORmNCVGJjMUthNmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDg1MzI1CWZpbGU6T25UaW1lXzAuMi4xX3g2NC1zZXR1cC5leGUKb2dqRXl3Qk0xc3FzNWFMVmt0aGMwZy91a1BvOU91WnhPSFFEVTRFZWhmaGRTbW1wQnlJN3E1QklpRVRJREp3RDBuS1VzVk9zRkVwaHcwMUJxRDV6REE9PQo=",
-      "url": "https://github.com/XUnifire/OnTime/releases/download/v0.2.1/OnTime_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGZ4OUg0citHcCttV2gxQm92Q2JFTldQSlBjbm5rRWkxNVpTR1EramQ1OTJQZEU5eG9nTDRLRUpmVkI2a2dXRno2bDBFTTJGM0N1KzVFTHNXSTB3YVh2ZWxJcXEwNlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDkwOTY0CWZpbGU6T25UaW1lXzAuMy4wX3g2NC1zZXR1cC5leGUKVHd1eHg1eGJ2Mmw0andORTN3WmZoaDIvMXFlY2hOVTRDQ1pLVm9EMFp3TDBOR2dVK3FMM0YzZ0s0WldlS2s3Y05Lb1M4T09HVnRINUE1RGZvczNSRFE9PQo=",
+      "url": "https://github.com/XUnifire/OnTime/releases/download/v0.3.0/OnTime_0.3.0_x64-setup.exe"
     }
   }
 }
