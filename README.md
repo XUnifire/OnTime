@@ -19,7 +19,6 @@
 <br />
 <br />
 <div align="center">
-    <h1>OnTime</h1>
     <strong>An Employee Productivity and Work Activity Monitoring Application</strong>
     <br />
     Developed and maintained by XUnifire exclusively for its workforce.
